@@ -1,0 +1,18 @@
+incentives - 3 - notes 01, 02, 03
+responsibility - 3 - notes 04, 05, 07
+academic integrity - 2 - notes 01, 03
+assignment design - 2 - notes 01, 08
+authorship - 2 - notes 04, 10
+purpose - 2 - notes 08, 10
+student attitudes - 2 - notes 02, 05
+verification - 2 - notes 07, 09
+busy work - 1 - note 08
+coursework - 1 - note 02
+design - 1 - note 05
+detachment - 1 - note 04
+difficulty - 1 - note 06
+fairness - 1 - note 03
+hallucination - 1 - note 07
+learning - 1 - note 06
+process - 1 - note 06
+reliability - 1 - note 09
