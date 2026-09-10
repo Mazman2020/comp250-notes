@@ -1,3 +1,6 @@
+Overview
+--------
+
 When we first started reading these articles and talking about them in class and also before this class a question that kept coming to mind was if using AI for school work is cheating.
 I think its a question lots of people have been asking recently. I think although im still not 100 perecent sure I dropped the question mostly due to students in Hsus article that kept answering the question in ways that didnt fit.
 One would say that its cheaint but not really cheating. Another said that if people didnt like the essay it wasnt even her that wrote the essay so what does it matter. Anway these answers I think led me more to ask who is reponsible for AI when it does the work.
