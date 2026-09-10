@@ -15,10 +15,10 @@ Point locator
 
 Commentary
 ----------
-This part by Mollick is intresting and I think we can fall victim to it very easyily.
-There is a chain that is laid out, errors sound reasoable because the way that these systems build sentences. This makes it hard to catch and people stop checking.
-People checking is a human behavior that we need to fix not soemthing wiht the AI model.
+This part by Mollick is interesting and I think we can fall victim to it very easily.
+There is a chain that is laid out, errors sound reasonable because the way that these systems build sentences. This makes it hard to catch and people stop checking.
+People checking is a human behavior that we need to fix not something with the AI model.
 
 Keywords
 --------
-verify; hallucination; responsibilty
+verify; hallucination; responsibility

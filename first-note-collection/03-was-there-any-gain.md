@@ -16,9 +16,9 @@ p. 26
 
 Commentary
 ----------
-I think that this line is really good and puts into persepctive issue.
-Kevin from what we can tell worked hard and did the honest thing and still isnt sure what he got for it.
-The cost of doing the work took a lot of time and dedication and the payoff isnt really big right away. I think this kind of points to the system again and that working hard doesnt have an obvious payoff.
+I think that this line is really good and puts the issue into perspective.
+Kevin from what we can tell worked hard and did the honest thing and still isn't sure what he got for it.
+The cost of doing the work took a lot of time and dedication and the payoff isn't really big right away. I think this kind of points to the system again and that working hard doesn't have an obvious payoff.
 
 Keywords
 --------

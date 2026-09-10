@@ -15,9 +15,9 @@ Point locator
 
 Commentary
 ----------
-Mollick says that its okay to avoid the pointless "ritual" taks but when we look at Hsus ideas we run into a bit of a problem.
+Mollick says that its okay to avoid the pointless "ritual" tasks but when we look at Hsu's ideas we run into a bit of a problem.
 Common assignments like for example an art paper like we touched on earlier are exactly the kind of busy work that Mollick is talking about. 
-So the real question I think this draws is not about AI but about wether these assignments were actually valuable before we were introduced to AI kind of like what we talked about in class.
+So the real question I think this draws is not about AI but about whether these assignments were actually valuable before we were introduced to AI kind of like what we talked about in class.
 
 Keywords
 --------

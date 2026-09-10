@@ -1,5 +1,5 @@
 ID:05
-Title: Students arent the ones to blame
+Title: Students aren't the ones to blame
 
 Quotation
 ---------
@@ -15,10 +15,10 @@ p. 27
 
 Commentary
 ----------
-This is Hsu verdict and I think that it does work with the previous pages of evidence showing the pressue students can be under.
- Hsu shows that they didnt choose things like Zoom during pandemic, or laptops in elementry school which are both things I relate to.
-Also points out that univerties are shifting from wanting to ban AI to doing deals with companies that are selling it.
+This is Hsu's verdict and I think that it does work with the previous pages of evidence showing the pressure students can be under.
+ Hsu shows that they didn't choose things like Zoom during pandemic, or laptops in elementary school which are both things I relate to.
+Also points out that universities are shifting from wanting to ban AI to doing deals with companies that are selling it.
 
 Keywords
 --------
-responsibilty; student attitudes; design
+responsibility; student attitudes; design

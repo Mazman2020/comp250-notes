@@ -1,5 +1,5 @@
 ID: 04
-Title: Wasnt me who wrote it
+Title: Wasn't me who wrote it
 
 Quotation
 ---------
@@ -17,9 +17,9 @@ p. 26
 Commentary
 ----------
 
-I found this interesting in particular. The claim that if the words arent yours then critism of them isnt about you either
-She almost felt relifed by this.
+I found this interesting in particular. The claim that if the words aren't yours then criticism of them isn't about you either
+She almost felt relieved by this.
 
 Keywords
 --------
-authorship; responsiblity; detachment
+authorship; responsibility; detachment

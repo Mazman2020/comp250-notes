@@ -16,8 +16,8 @@ Point locator
 
 Commentary
 ----------
-I think this is really a valid reason to not use AI for every single task that we try to comoplete in our work/school life.
-I think Mollick agrees with Hsu but from a slightly different angle. The struggle isnt just an obstacle in the system but its part of the system itself.
+I think this is really a valid reason to not use AI for every single task that we try to complete in our work/school life.
+I think Mollick agrees with Hsu but from a slightly different angle. The struggle isn't just an obstacle in the system but its part of the system itself.
 When the effort is the point the task is defined by the process which AI can now let students just skip.
 
 Keywords
