@@ -19,3 +19,6 @@ My most frequent subject terms are “patch window,” “time-to-exploit,” an
 The key connection runs through notes 7, 8, and 10 every flaw AI finds becomes another patch for a few people to write and install so AI discovery may slow down the slowest step.
 Note 8 also shows that humans saw signs of the PHP2Shell flaw in a 2024 audit, and AI’s contribution was proving it could be exploited.
 
+*AI disclosure:** I used Claude (Anthropic) to help prepare this collection.
+I maily used it to help with grammer and spell checking as well as fact checking and sanity checking my work.
+I think this use is justified because one source is over 100 pages long, and AI let me check quotations and page numbers accurately and also check the arguments remained my decisions.
